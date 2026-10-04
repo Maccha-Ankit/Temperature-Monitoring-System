@@ -23,7 +23,7 @@ The temperature data is exposed through an HTTP endpoint and visualized on a liv
 * 💻 Runs locally without requiring cloud infrastructure
 
 ---
-<img src="images/dashboard.png" alt="Industrial IoT Temperature Monitoring Dashboard" width="900">
+<img src="dashboard.png" alt="Industrial IoT Temperature Monitoring Dashboard" width="900">
 ## 🏗️ System Architecture
 
 ```text
